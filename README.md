@@ -26,8 +26,8 @@
 
 ## :bar_chart: Github Stats
 
- <a href="https://github.com/ICWeiner"><img align="center" height="180em" alt="Diogo GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ICWeiner&theme=dark&count_private=true&show_icons=true"></a>
- <a href="https://github.com/ICWeiner"><img align="center" height="180em" alt="diogo Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ICWeiner&layout=compact&theme=dark&langs_count=7"></a>   
+ <a href="https://github.com/ICWeiner"><img align="center" height="180em" alt="Diogo GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ICWeiner&theme=dark&count_private=true&show_icons=true"></a>
+ <a href="https://github.com/ICWeiner"><img align="center" height="180em" alt="diogo Top Languages" src="https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=ICWeiner&layout=compact&theme=dark&langs_count=7"></a>   
 
 <!--
 **ICWeiner/ICWeiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
