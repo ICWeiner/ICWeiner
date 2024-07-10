@@ -5,7 +5,7 @@
 
 
 <a href="mailto:diogoffn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-diogoffn@gmail.com-teal?style=for-the-badge&color=98bad5&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/diogo-faia-3b7666296/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Diogo%20Faia-teal?style=for-the-badge&color=98bad5&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/diogo-nunes-3b7666296/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Diogo%20Nunes-teal?style=for-the-badge&color=98bad5&logo=linkedin"></a>
 
 ## :hammer_and_wrench: Languages and Tools
 
