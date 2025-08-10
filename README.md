@@ -1,7 +1,7 @@
 # Hi, I'm Diogo Nunes 👋
 
 🎓 I have a Bachelor´s degree Informatics and Computing Engineering [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial)<br>
-   I'm currently studying for a Master´s degree in Network and Information Systems Engineering [@FCUP](https://sigarra.up.pt/fcup/en/web_page.Inicial) 
+   And a Master´s degree in Network and Information Systems Engineering [@FCUP](https://sigarra.up.pt/fcup/en/web_page.Inicial) 
 
 
 <a href="mailto:diogoffn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-diogoffn@gmail.com-teal?style=for-the-badge&color=98bad5&logo=gmail"></a>
