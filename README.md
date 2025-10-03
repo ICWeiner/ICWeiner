@@ -1,5 +1,7 @@
 # Hi, I'm Diogo Nunes 👋
 
+Im currently working as a Junior Software Engineer@KPMG
+
 🎓 I have a Bachelor´s degree Informatics and Computing Engineering [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial)<br>
    And a Master´s degree in Network and Information Systems Engineering [@FCUP](https://sigarra.up.pt/fcup/en/web_page.Inicial) 
 
